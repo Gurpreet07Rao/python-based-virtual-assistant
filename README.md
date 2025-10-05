@@ -1,6 +1,5 @@
 
 
-Demo Video: https://vimeo.com/650156113
 
 Contents of .env file:
 
@@ -15,4 +14,5 @@ TMDB_API_KEY=None
 ```
 
 Replace `None` with your values
+
 
